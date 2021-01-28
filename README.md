@@ -1,5 +1,7 @@
 # Basic Sequelize Setup
 
+[NPM Sequelize](https://www.npmjs.com/package/sequelize-cli)
+
 NPM Scripts Added:
 ```
     "db:create": "sequelize-cli db:create",
