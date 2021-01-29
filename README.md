@@ -1,5 +1,7 @@
 # Basic Sequelize Setup
 
+[A Guide for RESTful APIs with Node, Sequelize & Postgres](https://blog.echobind.com/a-guide-for-restful-apis-with-node-sequelize-postgres-63636d026d5d)
+
 [NPM Sequelize](https://www.npmjs.com/package/sequelize-cli)
 
 NPM Scripts Added:
